@@ -1,0 +1,26 @@
+/* Définit un fond blanc pour tout le site */
+body {
+    background-color: #fff; /* Blanc */
+  }
+  
+  /* Applique une surbrillance de couleur verte légère sur les fonctionnalités clés */
+  .fonctionnalite-cle {
+    background-color: #5ee677; /* Vert pâle */
+    /* Autres styles pour les fonctionnalités clés, par exemple la mise en forme du texte, la marge, etc. */
+  }
+  
+  .header {
+
+  background-color: #5ee677;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 25px;
+  }
+
+.home_slider_background  {
+
+  background-image: -webkit-image-set();
+  
+
+
+}
